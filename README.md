@@ -1,5 +1,5 @@
 # CODCLAUSE INTERNSHIP
-<p className="mb-3 mb-md-0">Made with ❤️ by {""}
-   <a  href="https://facedetectionapp.vercel.app/" target="_blank" rel="noreferrer">Face detection app </a>
-</p>
+
+ 1)  <a  href="https://facedetectionapp.vercel.app/" target="_blank" rel="noreferrer">Face detection app </a>
+
 # 2) background img remover
