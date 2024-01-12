@@ -1,6 +1,6 @@
 # CodeClause_IBR
 
- <a  href="bir.mp4" target="_blank" rel="noreferrer">BACKGROUND IMG REMOVER </a>
+<img width="600" height="400" src="bir.mp4">
 
  
 
