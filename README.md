@@ -1,4 +1,4 @@
-# CODCLAUSE INTERNSHIP
+# CODECLAUSE INTERNSHIP
 
  1)  <a  href="https://facedetectionapp.vercel.app/" target="_blank" rel="noreferrer">FACE DETECTION APP </a>
 
